@@ -53,7 +53,7 @@ def get_sources(det):
 
 
 def create_json_file(resalt,name, option):
-    file_name = f"<group_7>_<{name}>_<{option}>.json"
+    file_name = f"<group_B10>_<{name}>_<{option}>.json"
     with open(file_name, 'w') as file:
             json.dump(resalt, file, indent=4)
             
