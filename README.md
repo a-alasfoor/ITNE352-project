@@ -1,7 +1,7 @@
 # News app
 
 ## Project Description:
-A news application takes a request of a news source or headline with a specific parameter from the user and returns the response from the API and display it to the user
+A news application takes a request of a news source or headline with a specific parameter from the user and returns the response from the API and display it to the user.
 
 ## Table of Contents
 - [Project Description](#project-description)
@@ -16,7 +16,7 @@ A news application takes a request of a news source or headline with a specific 
 - [Conclusion](#conclusion)
 ## Made by :
  Ammar ali alasfoor and mahmood raed
- Gorup 10 , ITNE_352_section 2 
+ Gorup 10 , ITNE_352_section 2 .
 
 
 
